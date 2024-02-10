@@ -1,0 +1,17 @@
+hello dear diary
+Day 1
+Test :2
+Test 2
+i am writing this in file
+so that wont be any problem
+XIT
+test 3
+<----------------------->
+this test is conducted in order to check whether the file is getting written or not, without over-writting tontent in the file
+XIT
+i guess it is working fine , without any problem
+XIT
+Test :4 ----------->
+to check whether while exiting using 'XIT' command
+does the program print XIT too or not
+new

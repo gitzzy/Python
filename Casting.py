@@ -1,4 +1,4 @@
-x = 10
+x = int(10)
 y = str(x)
 z = float(x)
 
