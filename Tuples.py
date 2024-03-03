@@ -5,10 +5,10 @@ myTuple = (45,89)
 x,y = myTuple
 print(x,y)
 
-tup = (7,0,8,2,1,5,5,7,1,7)
+tup = (7,1,7,(8),[7,8],{7,9})
 
 #Counting
 print(tup.count(8))
 
 #Indexing
-print(tup.index(8))
+print(tup[3])

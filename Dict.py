@@ -1,7 +1,7 @@
 #Dictionary
 #Very similar to Mapping in java
 #ofc Value can be changed
-myDict = {0:"A",1:'B'}
+myDict = {0:"A",1:'B',3:'C',4:'D'}
 print(myDict[0])
 
 myDict[0] = "a"
