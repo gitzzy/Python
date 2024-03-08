@@ -15,3 +15,4 @@ Test :4 ----------->
 to check whether while exiting using 'XIT' command
 does the program print XIT too or not
 new
+hello how are you ----------->

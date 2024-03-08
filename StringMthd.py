@@ -1,4 +1,4 @@
-val = "Devansh"
+val = "Devansh "
 val1 = "hello! Sir"
 val2 = "123"
 
@@ -22,3 +22,16 @@ print(val.isdigit())
 print(val1.replace("hello","Bye"))
 
 print(val*3)
+
+#Slicing [start:stop:step]
+
+ram = "Jai Shri Ram"
+print(ram)
+print(ram[0:4])
+
+#Reverse a string in python
+print(ram[::-1])
+
+web = "https://aniwave.t0/"
+slice = slice(8,-4)
+print(web[slice])

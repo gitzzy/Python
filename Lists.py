@@ -2,7 +2,7 @@ MyList =[1,2,3,4,5,6]
 
 for i in MyList:
     #Reverse Display
-    print(MyList[-i])
+    print(MyList[-i], end=" ")
 print("End")
 
 print("Original List : ")
