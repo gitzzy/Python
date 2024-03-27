@@ -8,7 +8,6 @@ print(x,y)
 tup = (7,1,7,(8),[7,8],{7,9})
 
 #Counting
-print(tup.count(8))
-
+print(tup.count(7))
 #Indexing
 print(tup[3])
