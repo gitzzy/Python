@@ -6,14 +6,14 @@ for i in range(0,4):
             else:
                 print("  ",end="")
 
-    # for k in range(0,6):
-    #     if i==0 and k>0 and k<5 or (k==1 or k==4) or (i==3 and k<2) or (i==3 and k>4):
-    #         print("* ",end="")
-    #     else:
-    #         print("  ",end="")
-    # for l in range(0,6):
-    #     if i==0 and l>0 and l<5 or (l==1 or l==4) or (i==3 and l<2) or (i==3 and l>4):
-    #         print("* ",end="")
-    #     else:
-    #         print("  ",end="")
+    for k in range(0,6):
+        if i==0 and k>0 and k<5 or (k==1 or k==4) or (i==3 and k<2) or (i==3 and k>4):
+            print("* ",end="")
+        else:
+            print("  ",end="")
+    for l in range(0,6):
+        if i==0 and l>0 and l<5 or (l==1 or l==4) or (i==3 and l<2) or (i==3 and l>4):
+            print("* ",end="")
+        else:
+            print("  ",end="")
     print()

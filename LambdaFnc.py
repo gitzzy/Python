@@ -8,3 +8,8 @@ def squaring(x,y):
 
 s=squaring(2,3)
 print(s)
+
+def Fnc(fx,val):
+    return fx(val)
+
+print(Fnc(lambda x:x*x,3))
