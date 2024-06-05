@@ -25,3 +25,14 @@ print("Length of List :",len(MyList))
 print("'in' keyword uses")
 print(4 in MyList)
 print(9 in MyList)
+
+MyList.append(7)
+print(MyList)
+
+MyList.insert(0,9)
+print(MyList)
+
+MyList.remove(1)
+print(MyList)
+
+MyList.
