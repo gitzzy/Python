@@ -8,4 +8,4 @@ try:
 except TypeError:
     print("Error")
 finally:
-    print("<----END----->")
+    print("End")
